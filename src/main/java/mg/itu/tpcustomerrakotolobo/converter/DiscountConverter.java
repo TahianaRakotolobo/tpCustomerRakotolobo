@@ -1,4 +1,4 @@
-package mg.itu.tpcustomerrakotolobo.jsf;
+package mg.itu.tpcustomerrakotolobo.converter;
 
 
 import jakarta.ejb.EJB;
