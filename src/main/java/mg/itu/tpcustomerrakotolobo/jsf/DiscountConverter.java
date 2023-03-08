@@ -1,3 +1,5 @@
+package mg.itu.tpcustomerrakotolobo.jsf;
+
 
 import jakarta.ejb.EJB;
 import jakarta.faces.component.UIComponent;
